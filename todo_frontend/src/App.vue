@@ -154,7 +154,7 @@
 
 <style lang="scss">
     $border: 2px solid rgba(
-    $color: white,
+    $color: #ffffff,
     $alpha: 0.35,
     );
     $size1: 6px;
@@ -162,10 +162,10 @@
     $size3: 18px;
     $size4: 24px;
     $size5: 48px;
-    $backgroundColor: #27292d;
-    $textColor: white;
-    $primaryColor: #a0a4d9;
-    $secondTextColor: #1f2023;
+    $backgroundColor: #0d0015;
+    $textColor: #ffffff;
+    $primaryColor: #610371;
+    $secondTextColor: #ffffff;
     body {
         margin: 0;
         padding: 0;
@@ -220,7 +220,7 @@
                     font-size: 18px;
                     margin-top: $size1;
                     margin-bottom: $size2;
-                    background-color: rgba(182, 187, 252, 0.21);
+                    background-color: rgba(195, 182, 252, 0.21);
                 }
 
                 input {

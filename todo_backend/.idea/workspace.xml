@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="cb2591cd-3a67-49b7-bf02-da433acaf79b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todo_frontend/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_frontend/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_frontend/node_modules/.cache/babel-loader/483bc8ed76d4a3025db4d566da52e66a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_frontend/node_modules/.cache/babel-loader/483bc8ed76d4a3025db4d566da52e66a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_frontend/node_modules/.cache/babel-loader/d50a481aa065848c8b0b7599f8a743b8.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_frontend/node_modules/.cache/babel-loader/d50a481aa065848c8b0b7599f8a743b8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_frontend/node_modules/.cache/vue-loader/0c773bdd1849372f74a7512b418566eb.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_frontend/node_modules/.cache/vue-loader/0c773bdd1849372f74a7512b418566eb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_frontend/node_modules/.cache/vue-loader/9dc910629c861346352669f3896138a4.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_frontend/node_modules/.cache/vue-loader/9dc910629c861346352669f3896138a4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_frontend/node_modules/.cache/vue-loader/9e45c2eb628861589cbde06122f647ef.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_frontend/node_modules/.cache/vue-loader/9e45c2eb628861589cbde06122f647ef.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo_frontend/node_modules/.cache/vue-loader/b8d760b997c70b71b9605d64ab9c2904.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_frontend/node_modules/.cache/vue-loader/b8d760b997c70b71b9605d64ab9c2904.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todo_frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todo_frontend/src/App.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +51,7 @@
       <workItem from="1622579856227" duration="363000" />
       <workItem from="1622580361272" duration="128000" />
       <workItem from="1622580642011" duration="160000" />
-      <workItem from="1622711048274" duration="2756000" />
+      <workItem from="1622711048274" duration="4790000" />
     </task>
     <servers />
   </component>
